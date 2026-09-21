@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Gustavo","email":"gustavo_venturi@hotmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/doomVisualA5C4C42CF2FB4E9EB6D358999F64F529.pbiviz.json"
+			}
+		],
+		"visual": {"name":"doomVisual","displayName":"DoomVisual","guid":"doomVisualA5C4C42CF2FB4E9EB6D358999F64F529","visualClassName":"Visual","version":"1.0.0.0","description":"Visual personalizado inspirado no Doom","supportUrl":"https://github.com/seu-repo/doomVisual","gitHubUrl":"https://github.com/seu-repo/doomVisual"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
